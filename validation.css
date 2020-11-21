@@ -1,0 +1,68 @@
+body {
+    background-color: #0c4480;
+    text-align: center;
+}
+
+fieldset {
+    background-color: white;
+    padding: 25px;
+    text-align: left;
+}
+
+legend {
+    font-weight: bold;
+}
+
+.btn, .btn:hover {
+    background-color: black;
+}
+
+#message {
+    font-size: xx-large;
+    color: aliceblue;
+}
+
+.error {
+    border-color: white;
+    border-style: groove;
+    background: yellow;
+    font: message-box;
+}
+
+.valid{
+    border-color: green;
+    background-color: #9ae0aa;
+}
+
+h1 {
+
+    color: aliceblue;
+}
+
+h2 {
+
+    color: green;
+}
+
+img {
+
+    width: 740px;
+    height: 300px;
+}
+
+label {
+    margin-bottom: 10px;
+    padding-right: 20px;
+    color: green;
+}
+
+input {
+    height: 30px;
+    flex: 0 0 200px;
+    margin-left: 10px;
+}
+p{
+    color: white;
+    padding: 0;
+    margin: 0;
+}
